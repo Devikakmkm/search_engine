@@ -49,7 +49,7 @@ public:
 
         if (extension == "docx") {
             // Use Python script to extract text from Word file without opening a new window
-            string command = "pythonw D:/kmdev/Documents/extract_text_from_docx.py " + fileName;
+            string command = "python script file_path " + fileName;
             system(command.c_str());
 
             // Wait for the Python script to finish before proceeding
