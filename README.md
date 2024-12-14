@@ -6,7 +6,7 @@ This project is a simple search engine application developed in C++ that indexes
 > This tool provides search history tracking, document management, and the ability to browse queries directly in a web browser.
 
 # Features
-1.Document Indexing: Efficiently tokenize and index document content for rapid search operations.
+1.Document Indexing: Efficiently tokenize and index document content for rapid search operations./ln
 2.BM25 Scoring: Relevance ranking using the BM25 algorithm to deliver accurate search results.
 3.Search History: Logs user queries for future reference.
 4.Browser Search: Redirects user queries to Google in the default web browser.
