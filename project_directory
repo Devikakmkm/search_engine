@@ -1,0 +1,8 @@
+/project_directory
+│
+├── config.txt              # List of file paths for document indexing
+├── output.txt              # Temporary file for storing extracted `.docx` text
+├── extract_text_from_docx.py  # Python script for extracting Word document text
+├── main.cpp                # Main C++ source file
+├── README.md               # Documentation for the project
+└── (other project files as needed)
